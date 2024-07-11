@@ -44,7 +44,7 @@ function Contact() {
                   </div>
                   <div className="textboxs ps-3">
                     <h1 className="fs-6 fw-bold">Location</h1>
-                    <p>Amroli, Surat-30765</p>
+                    <p>Surat</p>
                   </div>
                 </div>
               </Col>
