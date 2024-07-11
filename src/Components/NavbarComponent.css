@@ -1,0 +1,13 @@
+.menuitems {
+    position: relative;
+    padding: 10px 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    z-index: 1;
+    border-radius: 5px;
+    margin: 0 5px;
+  }
+  
