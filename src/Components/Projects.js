@@ -21,18 +21,7 @@ function Projects() {
           Latest Project Works
         </h1>
         <Row className="poppinsFont">
-        <Col lg={4} md={6} sm={8} xs={10} className="mx-auto my-2">
-            <Card className="border-0 shadow-lg" style={cardStyle}>
-              <Card.Img variant="top" src={img2} style={imgStyle} />
-              <Card.Body className="text-center">
-                <h6 className="fs-6">DEPOT: Furniture-Product Website</h6>
-                <a href="https://modern-clone.vercel.app/" target='_blanck' style={{ color: 'black', fontWeight: '400' }} className="linker">
-                  Live Demo
-                </a>
-              </Card.Body>
-            </Card>
-          </Col>
-          <Col lg={4} md={6} sm={8} xs={10} className="mx-auto my-2">
+          <Col lg={6} md={6} sm={8} xs={10} className="mx-auto my-2">
             <Card className="border-0 shadow-lg" style={cardStyle}>
               <Card.Img variant="top" src={img1} style={imgStyle} />
               <Card.Body className="text-center">
@@ -44,12 +33,12 @@ function Projects() {
             </Card>
           </Col>
           
-          <Col lg={4} md={6} sm={8} xs={10} className="mx-auto my-2">
+          <Col lg={6} md={6} sm={8} xs={10} className="mx-auto my-2">
             <Card className="border-0 shadow-lg" style={cardStyle}>
               <Card.Img variant="top" src={img3} style={imgStyle} />
               <Card.Body className="text-center">
                 <h6 className="fs-6">Mint Mart: Ecommerce Website</h6>
-                <a href="https://car-hub-user-side.vercel.app/" target='_blanck' style={{ color: 'black', fontWeight: '400' }} className="linker">
+                <a href="https://ecommerce-platform-user-side.vercel.app/" target='_blanck' style={{ color: 'black', fontWeight: '400' }} className="linker">
                   Live Demo
                 </a>
               </Card.Body>

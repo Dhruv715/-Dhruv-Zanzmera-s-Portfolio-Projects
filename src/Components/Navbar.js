@@ -34,9 +34,9 @@ function NavbarComponent() {
               <Nav.Item>
                 <Nav.Link as={Link} to="/projects" className="menuitems">Portfolio</Nav.Link>
               </Nav.Item>
-              <Nav.Item>
+              {/* <Nav.Item>
                 <Nav.Link as={Link} to="/testimonials" className="menuitems">Testimonials</Nav.Link>
-              </Nav.Item>
+              </Nav.Item> */}
               <Nav.Item>
                 <Nav.Link as={Link} to="/contact" className="menuitems">Contact</Nav.Link>
               </Nav.Item>
